@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryno33.
 - 🧑‍💻 I have experience 5+ years as a cloud infrastructure engineer in Japan.
 - 🌱 I’m using and learning about public cloud like AWS, GCP or Azure on my job continuously.
-- 🏢 I’m currently working with japanese in-house development company as a cloud infrastructure engineer.
+- 🏢 I’m currently working with japanese in-house development company, responsible for the security and infrastructure.
 - 👀 I’m interested in art and fashion, especially high fashion and their modern history, the life of the designers.
 
 <!---
